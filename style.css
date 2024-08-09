@@ -1,0 +1,74 @@
+* { 
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+html {
+font-family: Noto Serif, serif;
+font-size: 10px;
+font-weight: 150;
+color: black;
+background: url(file:///D:/Tribute%20page/background%20image.webp);
+}
+
+body {
+font-size: 20px;
+margin: 0 auto;
+width: 70%;
+text-align: center;
+}
+
+.founder{
+    border: 2px solid;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius:10px ;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1 {
+font-family: Noto Sans JP, sans-serif;
+font-size: 40px;
+color: black;
+}
+
+h2 {
+font-family: Noto Sans JP, sans-serif;
+font-size: 25px;
+margin: 50px 0 25px 0;
+text-align: center;
+}
+
+h3 {
+font-family: Noto Sans JP, sans-serif;
+font-size: 20px;
+font-weight: 600;
+margin: 40px 0 5px 0;
+color: black;
+}
+
+.header {
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    list-style-type: none;
+}
+
+.header h1 {
+    text-shadow: 4px 4px 4px white;
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+    margin: 40px;    
+}
+
+.info u {
+    text-decoration-color: blue;
+    color: blue;
+}
+
